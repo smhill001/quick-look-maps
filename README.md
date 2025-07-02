@@ -16,4 +16,4 @@ Within each of the two color table directories are three subdirectories, one for
 NOTE: These are quick-look data and do not necessarily represent final, science grade processing. In addition, only about 70% of the 2024-25 data have been processed into maps. Future updates will include additional data.
 
 
-Hill, S. M., Irwin, P. G. J., Alexander, C., & Rogers, J. H. (2024). Spatial variations of Jovian tropospheric ammonia via ground‐based imaging. Earth and Space Science, 11, e2024EA003562. https://doi. org/10.1029/2024EA003562
+Hill, S. M., Irwin, P. G. J., Alexander, C., & Rogers, J. H. (2024). Spatial variations of Jovian tropospheric ammonia via ground‐based imaging. Earth and Space Science, 11, e2024EA003562. https://doi.org/10.1029/2024EA003562
